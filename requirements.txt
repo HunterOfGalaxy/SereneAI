@@ -1,0 +1,8 @@
+streamlit
+requests
+transformers
+torch
+torchvision
+torchaudio
+textblob
+pandas
