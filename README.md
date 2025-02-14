@@ -22,8 +22,7 @@ Serene AI is an intelligent chatbot designed to provide **real-time mental welln
 
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/your-username/SereneAI.git
-   cd SereneAI
+   git clone https://github.com/HunterOfGalaxy/SereneAI.git
    ```  
 
 2. **Install Dependencies**  
